@@ -43,5 +43,4 @@
 <br/>
 
 ## ✉️ Contact
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leg040311@gmail.com)
+**Mail**: leg040311@gmail.com
