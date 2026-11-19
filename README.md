@@ -36,11 +36,11 @@
 
 #### [북작북작](https://github.com/stopMoving/FrontEnd)
 
-> **2025.08 |** LIKELION CAU 13th Hackathon
+> **2025.08 |** LIKELION 13th Hackathon
 
 **Stack**: `React` `JavaScript` `Recoil` `Axios` `styled-components` `@zxing/library`
 
 <br/>
 
 ## ✉️ Contact
-**Mail**: leg040311@gmail.com
+**Email**: leg040311@gmail.com
